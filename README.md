@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Engineer with 2 years of experience.<br>Recently finished my masters in University at Buffalo.
+am a Software Engineer with a Master’s in Data Science, specializing in scalable backend development and AI engineering using Java (Spring Boot), Python, and AWS. With strong expertise in cloud infrastructure, TDD, and distributed systems, I focus on building robust architectures like second-hand trading APIs and GenAI-powered applications. I am passionate about bridging the gap between traditional software engineering and modern MLOps to deliver high-performance, data-driven solutions.
 
 
 ## 🌐 Socials:
